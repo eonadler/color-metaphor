@@ -4,6 +4,8 @@
 
 ### Study I
 
+* `color_word_survey_loop.ipynb`: Analysis notebook
+
 * `color_word_survey_loop.qsf`: Qualtrics survey (QSF format)
 
 * `color_word_survey_loop.docx`: Qualtrics survey (Word format)
@@ -13,6 +15,8 @@
 * `GPT*`: GPT data
 
 ### Study II
+
+* `color_metaphor.ipynb`: Analysis notebook
 
 * `Color_Metaphor_Colorblindseeing.qsf`: Qualtrics survey for colorblind/colorseeing participants (QSF format)
 
@@ -29,6 +33,8 @@
 * `GPT*`: GPT data
 
 ### Study III
+
+* `color_metaphor_qualitative.ipynb`: Analysis notebook
 
 * `Color_Metaphor_Qualitative.qsf`: Qualtrics survey (QSF format)
 
