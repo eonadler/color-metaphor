@@ -1,8 +1,10 @@
 # color-metaphor
 
-## Materials, Data, and Analysis Scripts for: Statistical or Embodied? Comparing Colorseeing, Colorblind, Painters, and Large Language Models in their Processing of Color Metaphors
+## Statistical or Embodied? Comparing Colorseeing, Colorblind, Painters, and Large Language Models in their Processing of Color Metaphors
 
-### Study I
+### Materials, Data, and Analysis Scripts
+
+#### Study I
 
 * `color_word_survey_loop.ipynb`: Analysis notebook
 
@@ -14,7 +16,7 @@
 
 * `GPT*`: GPT data
 
-### Study II
+#### Study II
 
 * `color_metaphor.ipynb`: Analysis notebook
 
@@ -32,7 +34,7 @@
 
 * `GPT*`: GPT data
 
-### Study III
+#### Study III
 
 * `color_metaphor_qualitative.ipynb`: Analysis notebook
 
@@ -44,9 +46,8 @@
 
 * `Thematic-Analysis-Pink-Party.csv`: Qualitative analysis data (pink party)
 
-### Other
+#### Other
 
 * `Participant Demographics`: demographic data for participants in all studies
 
 * `gpt_prompts.ipynb`: prompts for GPT
-
